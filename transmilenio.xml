@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<transmilenio>
+	<troncal letraT="C" nombreT="Troncal Suba" cantEst="15">
+			<estacion>
+				<nombre>Escuela Militar</nombre>
+				<latitud>4.6755444</latitud>
+				<longitud>-74.06979704</longitud>
+				<troncal>C</troncal>
+				<tipo>Intercambiador</tipo>
+			</estacion>
+			<estacion>
+				<nombre>San Martin</nombre>
+				<latitud>4.67639582</latitud>
+				<longitud>-74.06708459</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Rionegro</nombre>
+				<latitud>4.68041095</latitud>
+				<longitud>-74.06476088</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Suba Cl. 95</nombre>
+				<latitud>4.68465023</latitud>
+				<longitud>-74.06321132</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Suba Cl. 100</nombre>
+				<latitud>4.69050602</latitud>
+				<longitud>74.06566589</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Puente Largo</nombre>
+				<latitud>4.6933776</latitud>
+				<longitud>-74.06720081</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Shaio</nombre>
+				<latitud>4.69923589</latitud>
+				<longitud>-74.06987952</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Humedal Cordoba</nombre>
+				<latitud>4.70663711</latitud>
+				<longitud>-74.07118003</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Niza Cl. 127</nombre>
+				<latitud>4.71199179</latitud>
+				<longitud>-74.07231522</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Suba AV. Boyaca</nombre>
+				<latitud>4.72131997</latitud>
+				<longitud>-74.07477007</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Gratamira</nombre>
+				<latitud>4.72745068</latitud>
+				<longitud>-74.07469765</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>21 Angeles</nombre>
+				<latitud>4.73547882</latitud>
+				<longitud>-74.08095878</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Suba TV. 91</nombre>
+				<latitud>4.73892603</latitud>
+				<longitud>-74.08696045</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>La Campiña</nombre>
+				<latitud>4.74267149</latitud>
+				<longitud>-74.09121695</longitud>
+				<troncal>C</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Portal de Suba</nombre>
+				<latitud>4.74629535</latitud>
+				<longitud>-74.09470064</longitud>
+				<troncal>C</troncal>
+				<tipo>Portal</tipo>
+			</estacion>
+	</troncal>
+	<troncal letraT="D" nombreT="Troncal CL 80" cantEst="14">
+			<estacion>
+				<nombre>Heroes</nombre>
+				<latitud>4.66848995</latitud>
+				<longitud>-74.06026392</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Polo</nombre>
+				<latitud>4.67078003</latitud>
+				<longitud>-74.06483248</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Escuela Militar</nombre>
+				<latitud>4.67553914</latitud>
+				<longitud>-74.06979893</longitud>
+				<troncal>D</troncal>
+				<tipo>Intercambiador</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Carrera 47</nombre>
+				<latitud>4.6779761</latitud>
+				<longitud>-74.07363578</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Carrera 53</nombre>
+				<latitud>4.68179296</latitud>
+				<longitud>-74.07739375</longitud>ç
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Avenida 68</nombre>
+				<latitud>4.68581132</latitud>
+				<longitud>-74.08055766</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Ferias</nombre>
+				<latitud>4.69094928</latitud>
+				<longitud>-74.08463915</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Boyaca</nombre>
+				<latitud>4.69397709</latitud>
+				<longitud>-74.08715458</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Minuto de Dios</nombre>
+				<latitud>4.69670262</latitud>
+				<longitud>-74.09156652</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Granja - Carrera 77</nombre>
+				<latitud>4.69864131</latitud>
+				<longitud>-74.09447506</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Avenida Cali</nombre>
+				<latitud>4.70241773</latitud>
+				<longitud>-74.10085897</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Carrera 90</nombre>
+				<latitud>4.70470307</latitud>
+				<longitud>-74.10463537</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>Quirigua</nombre>
+				<latitud>4.70680435</latitud>
+				<longitud>-74.10882127</longitud>
+				<troncal>D</troncal>
+				<tipo>Normal</tipo>
+			</estacion>
+			<estacion>
+				<nombre>PORTAL DE LA 80</nombre>
+				<latitud>4.70989042</latitud>
+				<longitud>-74.11135024</longitud>
+				<troncal>D</troncal>
+				<tipo>Portal</tipo>
+			</estacion>
+	</troncal>
+</transmilenio>
